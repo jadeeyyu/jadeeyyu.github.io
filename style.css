@@ -1,20 +1,24 @@
-h1{
-text-align: center;
-}
-.navbar ul{
-    list-style-type:none;
-    background-color: white;
-    padding:0px;
-    margin: 0px;
-}
-.navbar a{
-    color: powderblue;
-    text-decoration: none;
-    padding: 15px;
-    display:block;
-    text-align: center;
-}
-.navbar li{
-    float:left;
-}
+h1 { 
+  text-align: center; 
+} 
+
+.navbar ul { 
+  list-style-type: none; 
+  background-color: white; 
+  padding: 0px; 
+  margin: 0px; 
+  display: flex; 
+  justify-content: center; 
+} 
+
+.navbar a { 
+  color: powderblue; 
+  text-decoration: none; 
+  padding: 15px; 
+  display: block; 
+  text-align: center; 
+} 
+
+
+
   
