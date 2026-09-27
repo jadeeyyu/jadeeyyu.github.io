@@ -6,10 +6,9 @@ text-align: center;
     background-color: white;
     padding:0px;
     margin: 0px;
-    overflow: hidden;
 }
 .navbar a{
-    color: powder blue;
+    color: powderblue;
     text-decoration: none;
     padding: 15px;
     display:block;
